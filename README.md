@@ -4,9 +4,8 @@ This project is an interactive Sales Dashboard developed using Microsoft Power B
 ## Tools Used
 - Microsoft Power BI
 - Microsoft Excel / CSV
-- Data Modeling
-- DAX
 - Power Query
+- 
   ## Dataset
 The dashboard is built using the following datasets:
 - Customers
