@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Gender,Age,City,State
+1,"Amit Sharma",Male,28,Mumbai,Maharashtra
+2,"Priya Singh",Female,24,Pune,Maharashtra
+3,"Rahul Verma",Male,31,Delhi,Delhi
+4,"Sneha Patil",Female,26,Nagpur,Maharashtra
+5,"Rohan Mehta",Male,35,Ahmedabad,Gujarat
+6,"Neha Joshi",Female,29,Jaipur,Rajasthan
+7,"Karan Shah",Male,27,Surat,Gujarat
+8,"Anjali Desai",Female,30,Indore,"Madhya Pradesh"
+9,"Vikas Kumar",Male,33,Lucknow,"Uttar Pradesh"
+10,"Pooja Nair",Female,25,Kochi,Kerala
+11,"Arjun Rao",Male,29,Hyderabad,Telangana
+12,"Meera Iyer",Female,27,Chennai,"Tamil Nadu"
+13,"Sanjay Gupta",Male,40,Bhopal,"Madhya Pradesh"
+14,"Kavita Mishra",Female,32,Patna,Bihar
+15,"Ritesh Yadav",Male,26,Kanpur,"Uttar Pradesh"
+16,"Simran Kaur",Female,28,Amritsar,Punjab
+17,"Aditya Kulkarni",Male,34,Nashik,Maharashtra
+18,"Nidhi Jain",Female,23,Noida,"Uttar Pradesh"
+19,"Manish Sinha",Male,37,Ranchi,Jharkhand
+20,"Ayesha Khan",Female,31,Bengaluru,Karnataka

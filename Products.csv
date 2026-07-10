@@ -1,0 +1,16 @@
+ProductID,ProductName,Category,Price
+101,Laptop,Electronics,55000.00
+102,Smartphone,Electronics,25000.00
+103,Headphones,Electronics,2500.00
+104,"Office Chair",Furniture,6500.00
+105,"Study Table",Furniture,8500.00
+106,Backpack,Accessories,1500.00
+107,"Water Bottle",Accessories,500.00
+108,"Running Shoes",Footwear,3200.00
+109,T-Shirt,Clothing,900.00
+110,Jeans,Clothing,1800.00
+111,"Smart Watch",Electronics,7000.00
+112,Keyboard,Electronics,1200.00
+113,Mouse,Electronics,800.00
+114,Notebook,Stationery,150.00
+115,"Pen Set",Stationery,300.00
